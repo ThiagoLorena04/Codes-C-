@@ -28,5 +28,5 @@ int main() {
 
     //Comentários para aparecer no meu github//
     // Comentatito para o GIT DOC//
-
+    printf("Usuario, digite sua posicao");
 }
